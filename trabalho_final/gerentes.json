@@ -1,0 +1,12 @@
+{
+  "gerentes": [
+    {
+      "nome": "Jose",
+      "senha": "123456"
+    },
+    {
+      "nome": "Pedro",
+      "senha": "123456"
+    }
+  ]
+}

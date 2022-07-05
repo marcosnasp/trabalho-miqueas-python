@@ -1,0 +1,16 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Marcos",
+      "saldo": "1000.43",
+      "valor_rendimento": "0"
+    },
+    {
+      "id": "2",
+      "nome": "Antonio",
+      "saldo": "3211.30",
+      "valor_rendimento": "0"
+    }
+  ]
+}
