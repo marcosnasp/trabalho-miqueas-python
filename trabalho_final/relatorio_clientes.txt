@@ -1,0 +1,5 @@
+Quantidade de clientes: 6
+Valor total depositado em todas as contas: 175361.73
+Media Ponderada por Saldo e Rendimentos: 100, 0.5
+Media Ponderada por Saldo e Rendimentos: 100, 1.0
+Media Ponderada por Saldo e Rendimentos: 100, 1.5

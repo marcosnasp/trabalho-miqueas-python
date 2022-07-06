@@ -2,11 +2,11 @@
   "gerentes": [
     {
       "nome": "Jose",
-      "senha": "123456"
+      "senha": "1234"
     },
     {
       "nome": "Pedro",
-      "senha": "123456"
+      "senha": "1234"
     }
   ]
 }
